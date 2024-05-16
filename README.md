@@ -1,3 +1,5 @@
+intro to software systems group project, by jayant gupta, narasimha j pai, sparsh bhartia of ug2024 cnd.
+
 Set up a virtual env using the command
 py -3 -m venv venv
 Activate it
